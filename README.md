@@ -1,32 +1,15 @@
-<div align="center">
+<h1 align="center">Hi, I'm Mana ✨</h1>
 
-<img src="assets/hellokitty-apple.gif" width="180" align="left">
-
-<h1>Hi, I'm Mana ✨</h1>
-
-<p>
-Computer Science Student 💻<br>
-RTL Design • FPGA • Hardware
+<p align="center">
+Computer Engineering Student 💻<br>
+Interested in RTL Design • FPGA • Computer Architecture
 </p>
 
-</div>
----
+<h3 align="center">🧩 Currently learning and building hardware projects</h3>
 
-### 🌱 About me
-
-- 🎓 Computer engineering student
-- 💻 Interested in digital design, FPGA, and computer architecture
-- 🧩 Currently learning RTL design & hardware systems
-- 📚 Learning languages and exploring new ideas
-
-
-### 🌸 Currently
-
-✨ Building projects  
-✨ Improving my hardware knowledge  
-✨ Exploring the world of digital systems
-
-
+<p align="center">
+  <img src="assets/hello-kitty.gif" width="180">
+</p>
 <!--
 **mana-nazarinia/mana-nazarinia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
