@@ -1,13 +1,22 @@
-<p align="center">
-  <img src="hellokitty-apple.gif" width="250"/>
+<<table>
+<tr>
+<td>
+
+<img src="assets/hello-kitty.gif" width="180">
+
+</td>
+<td>
+
+<h1>Hi, I'm Mana ✨</h1>
+
+<p>
+Computer Science Student 💻<br>
+RTL Design • FPGA • Hardware
 </p>
 
-<h1 align="center">Hi, I'm Mana ✨</h1>
-
-<p align="center">
-  Computer Science Student • Hardware Enthusiast • Future RTL Designer 💻
-</p>
-
+</td>
+</tr>
+</table>
 ---
 
 ### 🌱 About me
