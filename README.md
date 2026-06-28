@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="-[apple-hellokitty.gif](https://github.com/mana-nazarinia/mana-nazarinia/blob/c64d69199abb6e8f8a8ccbd64767e1838e84b608/hellokitty-apple.gif)" width="250"/>
+  <img src="apple-hellokitty.git" width="250"/>
 </p>
 
 <h1 align="center">Hi, I'm Mana ✨</h1>
