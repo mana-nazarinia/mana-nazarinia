@@ -8,7 +8,7 @@ Interested in RTL Design • FPGA • Computer Architecture
 <h3 align="center">🧩 Currently learning and building hardware projects</h3>
 
 <p align="center">
-  <img src="assets/hellokitty-apple.gif](https://github.com/mana-nazarinia/mana-nazarinia/blob/278e6515e4da040a53ae81c95bc474d9aeea11b0/hellokitty-apple.gif" width="150">
+  <img src="assets/hellokitty-apple.gif(https://github.com/mana-nazarinia/mana-nazarinia/blob/278e6515e4da040a53ae81c95bc474d9aeea11b0/hellokitty-apple.gif)" width="150">
 </p>
 <!--
 **mana-nazarinia/mana-nazarinia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
