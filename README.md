@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Mana ✨</h1>
 
-<p align="center">
+<h2 align="center">🧩 Currently learning and building hardware projects</h3><p align="center">
 Computer Engineering Student 💻<br>
 Interested in RTL Design • FPGA • Computer Architecture
 </p>
-
-<h3 align="center">🧩 Currently learning and building hardware projects</h3>
 
 <p align="center">
   <img src="https://github.com/mana-nazarinia/mana-nazarinia/blob/278e6515e4da040a53ae81c95bc474d9aeea11b0/hellokitty-apple.gif" width="150">
