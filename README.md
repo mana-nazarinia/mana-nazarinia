@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mana ✨</h1>
+<h1 align="center">Hi, I'm Mana 🌱/h1>
 
 <h3 align="center">🧩 Currently learning and building hardware projects</h3><p align="center">
 Computer Engineering Student 💻<br>
