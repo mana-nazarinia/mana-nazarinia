@@ -2,7 +2,7 @@
 <tr>
 <td>
 
-<img src="assets/hello-kitty.gif" width="180">
+<img src="assets/hellokitty-apple.gif" width="180">
 
 </td>
 <td>
