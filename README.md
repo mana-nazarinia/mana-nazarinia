@@ -1,11 +1,6 @@
-<<table>
-<tr>
-<td>
+<div align="center">
 
-<img src="assets/hellokitty-apple.gif" width="180">
-
-</td>
-<td>
+<img src="assets/hellokitty-apple.gif" width="180" align="left">
 
 <h1>Hi, I'm Mana ✨</h1>
 
@@ -14,9 +9,7 @@ Computer Science Student 💻<br>
 RTL Design • FPGA • Hardware
 </p>
 
-</td>
-</tr>
-</table>
+</div>
 ---
 
 ### 🌱 About me
