@@ -21,7 +21,7 @@ RTL Design • FPGA • Hardware
 
 ### 🌱 About me
 
-- 🎓 Computer Science student
+- 🎓 Computer engineering student
 - 💻 Interested in digital design, FPGA, and computer architecture
 - 🧩 Currently learning RTL design & hardware systems
 - 📚 Learning languages and exploring new ideas
